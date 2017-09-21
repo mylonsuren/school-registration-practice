@@ -16,9 +16,6 @@ public class SchoolRegistration {
     
     public static void main(String[] args) throws IOException {
         
-//        students.add(new Student("Alex", "Brown", "99 Road Avenue", 10, 
-//            109454294, 943034324, "abrown9430", "109454294", "10-34-8", 
-//            1985, 30, true, 21, "Male", "01/27/99"));
         
         courses.add(new Course(1, "Math", "MAT4U", "The Math Course. Students learn about math."));
         courses.add(new Course(1, "Physics", "SPH4U", "The Physics Course. Students learn about physics."));
@@ -29,10 +26,6 @@ public class SchoolRegistration {
         courses.add(new Course(1, "Computer", "ICS4U", "The Computer Course. Students learn about Computers."));
         courses.add(new Course(1, "French", "FRL4U", "The French Course. Students learn about French."));
         
-//        students.get(0).addCourse(courses.get(0));
-//        students.get(0).addCourse(courses.get(1));
-//        students.get(0).addCourse(courses.get(4));
-//        students.get(0).addCourse(courses.get(6));
         
         System.out.println("THE REGISTRATION MACHINE");
         
