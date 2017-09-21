@@ -25,6 +25,7 @@ public class SchoolRegistration {
         courses.add(new Course(1, "Business", "BAT4M", "The Business Course. Students learn about Business."));
         courses.add(new Course(1, "Computer", "ICS4U", "The Computer Course. Students learn about Computers."));
         courses.add(new Course(1, "French", "FRL4U", "The French Course. Students learn about French."));
+        courses.add(new Course(1, "Physics", "PHYS111", "The Physics Course. Students learn about Physics."));
         
         
         System.out.println("THE REGISTRATION MACHINE");
